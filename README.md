@@ -7,9 +7,6 @@ Two Python script is provided for testing:
 
 *Note: The official Matplotlib `pytest` suite is not used here, as the massive baseline image directory required for pixel-comparison testing is intentionally stripped from HPC installations to save disk space.*
 
-Two Python scripts are provided for testing:
-*   `my_test.py` - Runs the official, exhaustive NumPy test suite.
-
 ## Step 1: Environment Setup
 
 We must first set up the environment by loading the appropriate modules and creating a virtual environment. 
